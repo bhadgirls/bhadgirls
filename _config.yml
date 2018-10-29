@@ -2,7 +2,7 @@
 title: "BHADGIRLS"
 name: "Website name"
 keywords: "Key, words, about, this, website"
-baseurl: ""
+baseurl: "/bhadgirls"
 url: "http://website.com"
 description: "Website description"
 cover: "/assets/img/cover.svg"
